@@ -1,4 +1,5 @@
 import Link from 'next/link';
+
 const links = [
   { href: '/chat', label: 'chat' },
   { href: '/tours', label: 'tours' },
